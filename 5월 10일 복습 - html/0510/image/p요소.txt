@@ -1,0 +1,7 @@
+위키피디어에 따르면, UX는 사용자가 제품, 시스템 또는 서비스를 이용하면서 얻게 되는 총체적 경험이다.
+
+인터랙티브 제품은 상호작용이 이루어지는 제품을 일컫는다. 이러한 제품을 다르는 것이 이미 일상이 되었기때문에 그 과정이 지루하거나 건조하다면 제품과 함께 하는 시간은 고통의 연속일 것이다. 한 동안 사용성(사용하기 쉽고 편리한 정도)이 중요하게 다뤄져 왔지만, 사용성은 제품을 구성하고 있는 부분적 속성일 뿐이것만으로는 사용자 가치(사용자가 제품으로 얻을 수 있는 모든 것)를 제대로 표현하기가 어렵다.
+
+이 책은 UX 디자인이란 무엇인가, UX 디자인을 잘 하려면이라는 질문에 제대로 된 대답을 하기 위해 저자 스스로 사용자 경험 디자인을 이해하기 위해 노력했던 과정을 담았다.
+
+User Experience (UX) refers to a person's emotions and attitudes about using a particular product, system or service. It includes the practical, experiential, affective, meaningful and valuable aspects of human?computer interaction and product ownership. Additionally, it includes a person’s perceptions of system aspects such as utility, ease of use and efficiency. User experience may be considered subjective in nature to the degree that it is about individual perception and thought with respect to the system. User experience is dynamic as it is constantly modified over time due to changing usage circumstances and changes to individual systems as well as the wider usage context in which they can be found. In the end user experience is about how the user interacts with and experiences the product.
